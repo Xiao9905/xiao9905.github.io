@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Tsinghua University. *shawliu9 [at] gmail.com*
+description: Tsinghua University. (shawliu9 [at] gmail.com)
 
 profile:
   align: right
