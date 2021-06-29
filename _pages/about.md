@@ -6,7 +6,7 @@ description: Tsinghua University. *shawliu9 [at] gmail.com*
 
 profile:
   align: right
-  image: xiao-big.jpg
+  image: xiao-big.png
   address: >
 
 news: false  # includes a list of news items
@@ -14,9 +14,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, my name is Xiao Liu (刘潇). I am a first year master student in Computer Science at Tsinghua University. My major research interests include machine learning, knowledge graphs and data mining. 
+Hi, my name is Xiao Liu (刘潇). I am a first year master student in Computer Science at Tsinghua University, supervised by Prof. [Jie Tang](http://keg.cs.tsinghua.edu.cn/jietang/). My major research interests include machine learning, knowledge graphs and data mining. 
 
-Currently I am investigating approaches to construct large-scale knowledge graphs in an unsupervised or self-supervised fashion (i.e., without human supervision). Constructing knowledge graphs have been a central challenge for decades in my field, and thanks to the boosting pre-trained models and self-supervised learning, 
+Currently I am seeking for approaches to ***construct large-scale knowledge graphs in an unsupervised or self-supervised fashion*** (i.e., without human supervision). Constructing knowledge graphs have been a central challenge for decades in my field, and thanks to the boosting pre-trained models and self-supervised learning, this goal could be achieved soon.
+
+
 
 <!--Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
