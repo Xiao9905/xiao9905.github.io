@@ -14,7 +14,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, my name is Xiao Liu (刘潇). I am a first year master student in Computer Science at Tsinghua University, supervised by Prof. [Jie Tang](http://keg.cs.tsinghua.edu.cn/jietang/). My major research interests include machine learning, knowledge graphs and data mining. 
+Hi, my name is Xiao Liu (刘潇). I am a graduate student in Computer Science at Tsinghua University, supervised by Prof. [Jie Tang](http://keg.cs.tsinghua.edu.cn/jietang/). My major research interests include machine learning, knowledge graphs and data mining. 
 
 Currently I am seeking for approaches to ***construct large-scale knowledge graphs in an unsupervised or self-supervised fashion*** (i.e., without human supervision). Constructing knowledge graphs have been a central challenge for decades in my field, and thanks to the boosting pre-trained models and self-supervised learning, this goal could be achieved soon.
 
